@@ -1,7 +1,7 @@
 ## 🕹️ 아두이노 브릭 브레이커 (Arduino Brick Breaker)
 
 아두이노 UNO, 조이스틱 쉴드, I2C OLED를 사용하여 간단한 벽돌깨기 게임기를 구현한다.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/163afb34-37df-456d-a7e8-283e8eaccfe2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0612ce5-2784-44f4-8b73-6606bae91e97" />
 
 
 **[프로젝트 환경]**
