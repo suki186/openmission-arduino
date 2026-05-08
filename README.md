@@ -3,6 +3,8 @@
 아두이노 UNO, 조이스틱 쉴드, I2C OLED를 사용하여 간단한 벽돌깨기 게임기를 구현한다.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0612ce5-2784-44f4-8b73-6606bae91e97" />
 
+**[시연 영상]**
+https://youtu.be/azIROu0C9ew?si=xvGh2IOF5ZRriNFh
 
 **[프로젝트 환경]**
 
